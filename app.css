@@ -21,6 +21,7 @@
     .bg-container{
         width: 100vw;
         height: auto;
+        min-height: 670px;
         flex-direction: column;
         background-size: cover;
     }
