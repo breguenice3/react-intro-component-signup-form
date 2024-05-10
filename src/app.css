@@ -20,7 +20,9 @@
 @media (min-width: 300px) and (max-width: 1000px) {
     .bg-container{
         width: 100vw;
-        height: 100vh;
+        height: auto;
+        min-height: 670px;
         flex-direction: column;
+        background-size: cover;
     }
 }
