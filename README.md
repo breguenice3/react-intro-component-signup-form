@@ -2,6 +2,9 @@
 
 ![Design preview for the into component signup form](./intoComponents.jpg)
 
+## Detalhes
+Projeto feito com React & Typescript para resolver o desafio do frontend mentor que simula uma tela de cadastro para o teste gratuito de uma plataforma de aprendizado de codagem, ela conta com 4 campos obrigatórios e um botão para finalizar o fórmulario.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
